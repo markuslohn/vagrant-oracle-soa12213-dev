@@ -1,0 +1,2 @@
+inst_group=vagrant
+inventory_loc=/home/vagrant/oraInventory
