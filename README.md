@@ -74,7 +74,7 @@ All bookmarks can be found in file index.html.
 10. Open the file PROJECT_HOME/index.html in a web browser
 
     This files contains all links and some other important information working with the VM.
-    
+
 ## Usage
 
 ### Start Virtual Machine
@@ -136,4 +136,9 @@ The following steps only needed when using Maven inside the VM.
 
 6. Put your OTN account name in the file $HOME/.m2/settings.xml in the element <username></username> for server definition maven.oracle.com.
 
-### Miscellaneous
+### Issues
+
+Obtain and install the following patches from Oracle Support regardings the release 12.2.1.3:
+
+- 27235959: Auf den Server, damit die One-Way Pipelines funktionieren.
+- 26851310: Auf JDeveloper, um den DBAdapter verwenden zu können.
