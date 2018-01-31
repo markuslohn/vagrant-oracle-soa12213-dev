@@ -76,8 +76,8 @@ Vagrant.configure(2) do |config|
              ADMIN_PORT: "7201",
              ADMIN_USER: "weblogic",
              ADMIN_PASSWORD: "weblogic1",
-             JAVA_VERSION: "8u152",
-             JAVA_BUILD_VERSION: "b16",
-             JAVA_MD5: "aa0333dd3019491ca4f6ddbe78cdb6d0"}
+             JAVA_VERSION: "8u162",
+             JAVA_BUILD_VERSION: "b12",
+             JAVA_MD5: "0da788060d494f5095bf8624735fa2f1"}
   end
 end
